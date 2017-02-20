@@ -1,0 +1,53 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/zhangfan/Downloads/QRWeiXinDemo-master/Example/build/Debug-iphoneos/DDQRCode/DDQRCode.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DDQRCode-Swift.h",
+          'external-contents': "/Users/zhangfan/Downloads/QRWeiXinDemo-master/Example/build/Debug-iphoneos/DDQRCode/DDQRCode.framework/Headers/DDQRCode-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DDQRCode-umbrella.h",
+          'external-contents': "/Users/zhangfan/Downloads/QRWeiXinDemo-master/Example/Pods/Target Support Files/DDQRCode/DDQRCode-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "QRItem.h",
+          'external-contents': "/Users/zhangfan/Downloads/QRWeiXinDemo-master/Example/Pods/DDQRCode/DDQRCode/Classes/QRItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "QRMenu.h",
+          'external-contents': "/Users/zhangfan/Downloads/QRWeiXinDemo-master/Example/Pods/DDQRCode/DDQRCode/Classes/QRMenu.h"
+        },
+        {
+          'type': 'file',
+          'name': "QRUtil.h",
+          'external-contents': "/Users/zhangfan/Downloads/QRWeiXinDemo-master/Example/Pods/DDQRCode/DDQRCode/Classes/QRUtil.h"
+        },
+        {
+          'type': 'file',
+          'name': "QRView.h",
+          'external-contents': "/Users/zhangfan/Downloads/QRWeiXinDemo-master/Example/Pods/DDQRCode/DDQRCode/Classes/QRView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/zhangfan/Downloads/QRWeiXinDemo-master/Example/build/Debug-iphoneos/DDQRCode/DDQRCode.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/zhangfan/Downloads/QRWeiXinDemo-master/Example/build/Pods.build/Debug-iphoneos/DDQRCode.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
